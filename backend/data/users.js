@@ -10,13 +10,13 @@ const users = [
     },
     {
         name: 'User2',
-        email: 'User2@gmail.com',
+        email: 'user2@gmail.com',
         password: bcryptjs.hashSync('123456',10),
         phoneNumber: '2222222222'
     },
     {
         name: 'User3',
-        email: 'User3@gmail.com',
+        email: 'user3@gmail.com',
         password: bcryptjs.hashSync('123456',10),
         phoneNumber: '3333333333'
     },
